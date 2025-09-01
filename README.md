@@ -4,7 +4,7 @@
 
 ## 🚀 Технології
 
-- **Frontend**: React 18 + TypeScript
+- **Frontend**: React 19 + TypeScript
 - **State Management**: Redux Toolkit
 - **Стилізація**: Tailwind CSS
 - **Відео**: HTML5 Video API
